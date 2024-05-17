@@ -12,7 +12,7 @@ Para executar o projeto é necessário ter instalado o Java Development Kit (JDK
 Clonando o Repositório:
 Abra o terminal ou prompt de comando.
 Navegue até o diretório onde deseja clonar o repositório.
-Execute o seguinte comando para clonar o repositório: git clone https://github.com/gontijojess/crudprodutostp2.git
+Execute o seguinte comando para clonar o repositório: git clone https://github.com/gontijojess/findAPet.git
 
 Abrindo o Projeto no IDE:
 Abra sua IDE (por exemplo, IntelliJ IDEA, Eclipse, Visual Studio Code).
