@@ -1,5 +1,6 @@
 TP2 - Projeto de Bloco: Engenharia de Softwares Escaláveis
 Projeto utilizando Java, Spring Boot e Maven
+
 Tema: O tema do projeto foi inspirado nas páginas das redes sociais que divulgam os animais que foram encontrados pelos resgates no Rio Grande do Sul.
 A ideia é que as pessoas possam cadastrar esses animais resgatados para que seus respectivos donos os encontrem.
 
