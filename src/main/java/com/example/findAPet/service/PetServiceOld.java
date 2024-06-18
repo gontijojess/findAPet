@@ -18,8 +18,8 @@ public class PetServiceOld {
 
     private static List<Pet> initValues() {
         ArrayList<Pet> petsl = new ArrayList();
-        //petsl.add(new Pet(0, "Cachorro", "Fêmea", "SRD, porte P, toda caramelo", "Bairro Cinco Colônias - Canoas", "http://imagempet.com/123.jpg", "61999675644"));
-        //petsl.add(new Pet(1, "Cachorro", "Macho", "SRD, porte médio, todo preto", "Eldorado do Sul", "http://imagempet.com/456.jpg", "1199343455"));
+        /* petsl.add(new Pet(0, "Cachorro", "Fêmea", "SRD, porte P, toda caramelo", "Bairro Cinco Colônias - Canoas", "http://imagempet.com/123.jpg", "61999675644"));
+        petsl.add(new Pet(1, "Cachorro", "Macho", "SRD, porte médio, preto", "Eldorado do Sul", "http://imagempet.com/456.jpg", "1199343455")); */
         return petsl;
     }
 
